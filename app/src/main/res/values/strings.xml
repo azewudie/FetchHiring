@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fetch</string>
+    <!--    Splash Screen Content Start -->
+    <string name="app_logo"> Fetch.Hiring</string>
+    <string name="app_header_text">"Hiring"</string>
+    <!--    Splash Screen Content End -->
+
+    <!--    Home Screen Content Start -->
+    <string name="app_home_header">Hiring Json</string>
+    <!--    Home Screen Content End -->
+
+    <!--    Top App Bar Label Content Start-->
+    <string name="help">Help</string>
+</resources>
