@@ -74,7 +74,7 @@ fun AppHomeScreen(
                         item {
                             CommonText(
                                 TextAttributes(
-                                    text = "GROUP:$listId",
+                                    text = "${screeState.value.appHomeGroupTab}:$listId",
                                     textColor = if (listId == screeState.value.appHomeGroupedIndex)
                                         CustomTheme.colors.logoColor
                                     else CustomTheme.colors.text0,

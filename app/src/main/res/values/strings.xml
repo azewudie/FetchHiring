@@ -7,6 +7,7 @@
 
     <!--    Home Screen Content Start -->
     <string name="app_home_header">Hiring Json</string>
+    <string name="app_home_group_tab">Group</string>
     <!--    Home Screen Content End -->
 
     <!--    Top App Bar Label Content Start-->

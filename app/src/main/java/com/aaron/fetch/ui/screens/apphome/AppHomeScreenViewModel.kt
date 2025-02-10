@@ -28,6 +28,7 @@ class AppHomeScreenViewModel @Inject constructor(
     private fun getUiInitialState(): AppHomeScreenUIStates {
         return AppHomeScreenUIStates(
             appHomeHeader = appResources.getString(R.string.app_home_header),
+            appHomeGroupTab = appResources.getString(R.string.app_home_group_tab)
         )
     }
 

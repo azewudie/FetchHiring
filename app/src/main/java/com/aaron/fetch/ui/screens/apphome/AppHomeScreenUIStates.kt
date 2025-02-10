@@ -5,6 +5,7 @@ import com.aaron.fetch.utilities.constants.AppConstants
 
 data class AppHomeScreenUIStates(
     val appHomeHeader: String = AppConstants.EMPTY_STRING,
+    val appHomeGroupTab: String = AppConstants.EMPTY_STRING,
     val appHomeGroupedAndSortedList: Map<Int?, List<HiringResponseItem>> = mapOf(),
     val appHomeGroupedIndex:Int = 1
     )
