@@ -13,10 +13,10 @@ A simple Android application render data from the API
 - **Frameworks & Libraries:** Jetpack Compose, Retrofit,M3
 
 ## Android Configuration
-| **Min SDK**     | 34 (Android 14) |
-| **Compile SDK** | 34 (Android 14) |
-| **Target SDK**  | 34 (Android 14) |
-| **Kotlin Version** | 1.5.11 |
+- **Min SDK**      34 (Android 14) 
+- **Compile SDK**  34 (Android 14) 
+- **Target SDK**   34 (Android 14) 
+- **Kotlin Version**  1.5.11 
 
 ## Design Pattern
 This project follows the **MVVM (Model-View-ViewModel)** architecture pattern to ensure separation of concerns, scalability, and maintainability.
