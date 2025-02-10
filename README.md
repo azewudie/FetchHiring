@@ -25,3 +25,11 @@ This project follows the **MVVM (Model-View-ViewModel)** architecture pattern to
 ## Dark & Light Mode Support
 - The app **automatically switches** between **Dark Mode and Light Mode** based on the system theme.
 
+## Screenshots
+
+## Light Mode
+
+## Dark Mode
+
+
+
