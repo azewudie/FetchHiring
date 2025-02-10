@@ -4,7 +4,7 @@ A simple Android application render data from the API
 ## Features
 - Splash Screen
 - Home Screen 
-- Display user in group and click group tab 
+- Display user in group and clickable and horizontal scroll group tab 
 - Rest API Integration 
 
 ## Tech Stack 
