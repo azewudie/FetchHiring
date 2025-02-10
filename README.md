@@ -10,7 +10,7 @@ A simple Android application render data from the API
 
 ## Tech Stack 
 - **Language:** Kotlin
-- **Frameworks & Libraries:** Jetpack Compose, Retrofit,M3
+- **Frameworks & Libraries:** Jetpack Compose, Retrofit,Dagger Hilt,M3
 
 ## Android Configuration
 - **Min SDK**      34 (Android 14) 
