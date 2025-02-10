@@ -59,7 +59,7 @@ class AppHomeScreenViewModel @Inject constructor(
                         .sortedBy { it.listId } // Sort the entire list by listId numerically
                         .groupBy { it.listId } // Group the sorted list by listId
                         .mapValues { (_, items) ->
-                            // Sort each group by name (nulls last, or empty name as last)
+                            // Sort each group by name
                             items.sortedBy { it.name ?: "" }
                         }
 
