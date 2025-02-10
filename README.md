@@ -15,3 +15,7 @@ A simple Android application render data from the API
 ## Design Pattern
 This project follows the **MVVM (Model-View-ViewModel)** architecture pattern to ensure separation of concerns, scalability, and maintainability.
 
+
+## Dark & Light Mode Support
+- The app **automatically switches** between **Dark Mode and Light Mode** based on the system theme.
+
