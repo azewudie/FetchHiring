@@ -29,11 +29,11 @@ This project follows the **MVVM (Model-View-ViewModel)** architecture pattern to
 
 ## Light Mode
 
-![Screenshot_20250210_065656](https://github.com/user-attachments/assets/08671e25-7cf2-4d14-8043-a742a870a585)
+![Screenshot_20250210_070545](https://github.com/user-attachments/assets/c3fae6a9-0516-456f-b57d-8d9a68424e15)
 
 
 ## Dark Mode
 
-![Screenshot_20250210_065545](https://github.com/user-attachments/assets/bedf416c-ddc7-4f49-a29a-14e1739f3e79)
+![Screenshot_20250210_070704](https://github.com/user-attachments/assets/2d496ec1-c8d2-4822-92e4-49c75cbc2988)
 
 
